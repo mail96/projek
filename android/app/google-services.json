@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787127435616",
+    "project_id": "bimbel-8aaaf",
+    "storage_bucket": "bimbel-8aaaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787127435616:android:e2c438ca862326dfb79e05",
+        "android_client_info": {
+          "package_name": "com.example.app_pertamaku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWDgs6-Wtp-T7men3zkNV3NY9C97_d9Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
