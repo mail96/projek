@@ -1,2 +1,0 @@
-# projek
-bimbel
